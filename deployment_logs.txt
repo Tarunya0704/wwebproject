@@ -1,0 +1,15 @@
+Project: wwebproject
+Created: 2025-11-14 23:58:30
+Figma URL: https://www.figma.com/design/oWK4dPW26jwz4I3dncfu6S/NextJS--2025--main-?node-id=0-1&p=f&t=JP6QVENkTrXyNUq7-0
+Figma File ID: oWK4dPW26jwz4I3dncfu6S
+
+Design System:
+  Colors: 20
+  Typography: 13
+  Spacing: 11
+  Border Radius: 6
+  Shadows: 2
+
+Pages: 1
+Components: 3
+Images: 4

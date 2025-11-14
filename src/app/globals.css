@@ -1,0 +1,63 @@
+/* Global Styles - Generated from Figma */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Design Tokens */
+:root {
+  --color-rectangle547: #ffffff;
+  --color-importantguidelinesforthetaskp: #000000;
+  --color-contentmanagement: #f9f9f9;
+  --color-frame1000001047: #1c1442;
+  --color-frame1000001050: #e7e8ef;
+  --color-label: #212121;
+  --color-rectangle680: #e8e9ff;
+  --color-20sep2022: #a0a3bd;
+  --color-ellipse324: #d9d9d9;
+  --color-frame1000001070: #e3fff7;
+  --color-published: #0dad81;
+  --color-created: #58a4ff;
+  --color-search: #f8fafb;
+  --color-dashboard: #52545c;
+  --color-vector: #53545c;
+  --color-contactsupport: #1c1d22;
+  --color-frame434: #fcfcfd;
+  --color-welcomeback: #373b5c;
+  --color-stroke1: #1e2875;
+  --color-stories: #1d1d1b;
+  --spacing-0: 5.0px;
+  --spacing-1: 6.0px;
+  --spacing-2: 6.034482955932617px;
+  --spacing-3: 8.0px;
+  --spacing-4: 10.0px;
+  --spacing-5: 12.0px;
+  --spacing-6: 15.0px;
+  --spacing-7: 16.0px;
+  --spacing-8: 20.0px;
+  --spacing-9: 30.0px;
+  --spacing-10: 35.0px;
+  --radius-0: 5.0px;
+  --radius-1: 8.0px;
+  --radius-2: 9.987516403198242px;
+  --radius-3: 10.0px;
+  --radius-4: 12.0px;
+  --radius-5: 20.0px;
+}
+
+.shadow-0 {
+  box-shadow: 0.0px 0.0px 5.555555820465088px rgba(0, 0, 0, 0.25);
+}
+
+.shadow-1 {
+  box-shadow: 0.0px 4.0px 10.0px rgba(181, 181, 181, 0.10000000149011612);
+}
+
